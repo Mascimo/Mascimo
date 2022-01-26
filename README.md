@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Mascimo">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Mascimo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mascimo&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Mascimo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=79D9F9"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mascimo&layout=compact&langs_count=7&theme=dracula&title_color=79D9F9"/>
 </div>
 
 <div align="center"><br>
